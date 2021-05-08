@@ -1,16 +1,13 @@
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ### Hi there 👋
 
-<!--
-**AndersonSantos0/AndersonSantos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... visualmix
+- 🌱 I’m currently learning ... ReactJs
+- 👯 I’m looking to collaborate on ... ReactJs
+- 🤔 I’m looking for help with ... NextJs
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... (Portifolio)[https://portifolio-jade.vercel.app]
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... i'm Brazilian
 -->
