@@ -13,6 +13,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... i'm Brazilian
 
-<p align="center" >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSantos0)
-</p>
