@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... ReactJs
 - 🤔 I’m looking for help with ... NextJs
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... (Portifolio)[https://portifolio-jade.vercel.app]
+- 📫 How to reach me: ... [Portifolio][https://portifolio-jade.vercel.app]
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... i'm Brazilian
 -->
