@@ -49,8 +49,7 @@
 ---
 <p align="left">
 <a href="https://www.linkedin.com/in/anderson-santos-902a29184/"><img height="30"src="https://img.shields.io/badge/anderson%20santos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Anderson_Santos__@outlook.com"><img height="30"src="https://img.shields.io/badge/-Anderson_
-_Santos____@outlook.com-61DBFB?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+<a href="mailto:Anderson_Santos__@outlook.com"><img height="30"src="https://img.shields.io/badge/Outlook-61DBFB?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 <a href="https://dribbble.com/RockLakers"><img height="30"src="https://img.shields.io/badge/-RockLakers-E4405F?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
 </p>
 
@@ -69,9 +68,8 @@ _Santos____@outlook.com-61DBFB?style=for-the-badge&logo=microsoft&logoColor=whit
 </p>
 
  <p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSantos0&&langs_count=5&theme=dark" alt="AndersonSantos0" width="43%"" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndersonSantos0&count_private=true&show_icons=true&theme=dark" alt="AndersonSantos0" width="55%"/>
-    
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSantos0&&langs_count=5&theme=dark" alt="AndersonSantos0" width="40%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndersonSantos0&count_private=true&show_icons=true&theme=dark" alt="AndersonSantos0" width="55%" />
 </p>
 </p>
 
