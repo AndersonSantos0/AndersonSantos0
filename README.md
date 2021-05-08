@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="30"/>
   <img src ="https://img.shields.io/badge/typescript-007ACC?&logo=TypeScript&style=for-the-badge&logoColor=white" height ="30"/>
   <img src="https://img.shields.io/badge/react-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-reactnative-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/react--native-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/html-FC490B?&style=for-the-badge&logo=html5&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
   <img src ="https://img.shields.io/badge/sass-d100b9?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
