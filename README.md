@@ -1,5 +1,5 @@
 <br />
-<h2 align="center" > Anderson Santos</h2>
+<h3 align="center" > Anderson Santos</h3>
 <p align="center" > Front-end</p>
 <hr />
 <p align="center">
@@ -57,11 +57,8 @@
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center"> Statistics and Languages</h2>
-<hr />
-<br />
 
 <p>
 <p align="center">
