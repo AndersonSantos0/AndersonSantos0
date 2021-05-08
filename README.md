@@ -12,4 +12,5 @@
 - 📫 How to reach me: ... [Portifolio](https://portifolio-jade.vercel.app)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... i'm Brazilian
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonatodiego&hide=php)]
