@@ -2,7 +2,9 @@
 <h2 align="center" > Anderson Santos</h2>
 <p align="center" > Front-end</p>
 <hr />
-<img src="https://i.pinimg.com/originals/e8/d8/3e/e8d83e14bb6d1874f85d36213b1dac40.gif" width="100%" />
+<p align="center">
+<img src="https://i.pinimg.com/originals/e8/d8/3e/e8d83e14bb6d1874f85d36213b1dac40.gif"/>
+</p>  
 <hr />
 
 ### 👨🏽‍💻 About me:
@@ -63,13 +65,9 @@
 
 <p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonSantos0&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="100%"/>
-  <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonSantos0&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonSantos0&count_private=true&show_icons=true&theme=dark" alt="AndersonSantos0" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSantos0&&langs_count=6&theme=dark&layout=compact" alt="AndersonSantos0" width="50%" />
 </p>
 
- <p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSantos0&&langs_count=5&theme=dark" alt="AndersonSantos0" width="40%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndersonSantos0&count_private=true&show_icons=true&theme=dark" alt="AndersonSantos0" width="55%" />
-</p>
-</p>
 
