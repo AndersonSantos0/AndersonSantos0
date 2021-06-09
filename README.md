@@ -1,11 +1,3 @@
-<br />
-<h3 align="center" > Anderson Santos</h3>
-<p align="center" > Front-end</p>
-<hr />
-<p align="center">
-<img src="https://i.pinimg.com/originals/e8/d8/3e/e8d83e14bb6d1874f85d36213b1dac40.gif"/>
-</p>  
-<hr />
 
 ### 👨🏽‍💻 About me:
 
